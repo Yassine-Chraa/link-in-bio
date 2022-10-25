@@ -6,6 +6,6 @@ https://yassine-chraa.github.io/link-in-bio/
 * CSS
 * JS
 * Vanta.js 
-<did style="padding: 16px;display: flex;justify-content: center;">
+<div style="padding: 16px;display: flex;justify-content: center;">
 <img src="./images/link-to-bio.png"  height="500">
 </div>
