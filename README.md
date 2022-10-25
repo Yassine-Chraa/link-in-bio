@@ -7,5 +7,5 @@ This is a link in bio website inspaired from a tutoriel created by M.Takuya Mats
 * JS
 * Vanta.js 
 <div align="center">
-<img src="./images/link-to-bio.png"  height="500">
+<img src="./images/link-to-bio.png"  height="500" style="margin-top: 5px;">
 </div>
