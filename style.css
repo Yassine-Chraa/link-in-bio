@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&display=swap');
 body,
 html {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   background-color: gray;
   color: #fff;
 }
@@ -45,7 +46,7 @@ header > h1 {
   font-size: 0.8rem;
   font-weight: bold;
   border-radius: 1rem;
-  background-color: #3E6459;
+  background-color: #082019;
   padding: 0.3rem 0.6rem;
   border: 1px solid rgba(100, 113, 129, 0.667);
 }
