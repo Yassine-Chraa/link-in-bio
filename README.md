@@ -9,6 +9,3 @@ https://yassine-chraa.github.io/link-in-bio/
 <div align="center">
 <img src="./images/link-to-bio.png"  height="500">
 </div>
-=======
-# link-in-bio
->>>>>>> 2e9735e1700f8da5fb2182bc85cbb6f4bc5726cb
