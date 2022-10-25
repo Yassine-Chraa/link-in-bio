@@ -1,5 +1,5 @@
 # Link-in-bio for @YassChraa
-A link in bio website inspaired from a tutoriel created by M.Takuya Matsuyama
+this is a link in bio website inspaired from a tutoriel created by M.Takuya Matsuyama
 https://yassine-chraa.github.io/link-in-bio/
 ## Technologies
 * HTML
